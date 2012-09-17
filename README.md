@@ -1,4 +1,4 @@
 Flinging_Crap
 =============
 
-misc. scripts and tools
+This is the home of some of my bits and pieces of code and stuff that I use for other things.
